@@ -5,7 +5,7 @@
 
 
 ### Projects/Tutorials I've Utilized Dataset :
-* [How To Train Your Chatbot With Simple Transformers](https://towardsdatascience.com/how-to-train-your-chatbot-with-simple-transformers-da25160859f4)
+* [How To Train Your Chatbot With Simple Transformers](https://towardsdatascience.com/how-to-train-your-chatbot-with-simple-transformers-da25160859f4) [(My experiments)](https://www.kaggle.com/bauthantekmen/simple-transformers-chatbot)
 
 ### My Work & Experiments :
 * []
